@@ -140,10 +140,6 @@ input {
     color: black;
 }
 
-#navigation a:visited {
-    color: grey;
-}
-
 #nameInput {
     width: 100%;
     height: 25px;
