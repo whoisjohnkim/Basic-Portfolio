@@ -29,8 +29,9 @@ div h4 {
     position: absolute;
     bottom: 20px;
     background-color: teal;
+    color: white;
     height: 40px;
-    width: 90%;
+    width: 100%;
     z-index: 2;
     box-sizing: border-box;
     text-align: center;
@@ -87,7 +88,7 @@ input {
     position: relative;
     width: 30%;
     height: 200px;
-    padding-right: 3.4%
+    margin-right: 3.4%
 }
 
 .project img {
