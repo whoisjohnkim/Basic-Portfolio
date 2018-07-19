@@ -88,7 +88,8 @@ input {
     position: relative;
     width: 30%;
     height: 200px;
-    margin-right: 3.4%
+    margin-right: 3.4%;
+    margin-bottom: 20px;
 }
 
 .project img {
