@@ -1,2 +1,2 @@
 # Basic-Portfolio
-Portfolio for my work as a programmer.
+Basic portfolio sample using only html and css. Design was made following the class example.
